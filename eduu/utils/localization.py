@@ -15,10 +15,10 @@ from ..database.localization import get_db_lang
 enabled_locales: List[str] = [
     "en-GB",  # English
     "id-ID",  # Indonesian
-    "bn-BN",  # Bangladesh
+    "pt-BR",  # Portuguese
 ]
 
-default_language: str = "en-GB"
+default_language: str = "pt-BR"
 
 
 def cache_localizations(files: List[str]) -> Dict[str, Dict[str, Dict[str, str]]]:
