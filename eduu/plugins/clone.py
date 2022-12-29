@@ -33,6 +33,6 @@ async def on_clone(self, message):
                 'token': bot_token,
                 'username': bot.username
             }
-            await msg.edit_text(f"✅ O bot @{bot.username} agora está trabalhando como Groups Guardagora está funcionando como eu, meu parceiro.\n\n⚠️ <u>NÃO envie para ninguém</u> a mensagem com <u>o token</u> do Bot, quem o tem pode controlar o seu Bot!\n<i>Se você acha que alguém descobriu sobre o seu token Bot, vá para @Botfather, use /revoke e, em seguida, selecione @{bot.username}</i>")
+            await msg.edit_text(f"✅ O bot @{bot.username} agora está trabalhando como Gerenciador de chat! Está funcionando como eu, meu parceiro.\n\n⚠️ <u>NÃO envie para ninguém</u> a mensagem com <u>o token</u> do Bot, quem o tem pode controlar o seu Bot!\n<i>Se você acha que alguém descobriu sobre o seu token Bot, vá para @Botfather, use /revoke e, em seguida, selecione @{bot.username}</i>")
         except BaseException as e:
             await msg.edit_text(f"⚠️ <b>BOT ERROR:</b>\n\n<code>{e}</code>\n\n❔ Encaminhar esta mensagem para @The_Panda_Official corrigir.")
