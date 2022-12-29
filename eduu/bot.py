@@ -48,7 +48,7 @@ class Eduu(Client):
 
         start_message = (
             "✅ <b>GuardBot started!</b>\n\n"
-            f"🔖 <b>Version:</b> <code>v{__version__} ({__version_code__})</code>\n"
+            f"🔖 <b>Versão:</b> <code>v{__version__} ({__version_code__})</code>\n"
             f"🔥 <b>Pyrogram:</b> <code>v{pyrogram.__version__}</code>"
         )
 
