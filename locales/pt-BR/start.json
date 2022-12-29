@@ -1,11 +1,15 @@
 {
+  "start_back_panel": "vamos me explorar!",
+  "support_panel": "menu de suporte do bot",
+  "info_panel": "menu de informações do bot",
   "commands_btn": "📚 Comandos",
   "infos_btn": "ℹ️ Sobre",
-  "language_btn": "🌐 Idioma",
-  "add_chat_btn": "➕ Adiciona a um chat",
-  "private": "Olá! Eu sou o Saturno. Para descobrir mais sobre minhas funções, clique nos botões abaixo.",
-  "start_chat": "🤖 Iniciar uma conversa",
-  "group": "Olá! Sou Saturno. Para descobrir minhas funções, inicie uma conversa comigo.",
-  "info_page": "• Saturno\n\nVersão: {version} ({version_code})\n\n<a href=\"https://t.me/botssaved\">Canal</a>\nDesenvolvedor: <a href=\"https://t.me/The_Panda_Official\">Suporte</a>\n\Aki:\n » <a href=\"https://t.me/botssaved\">Suportd - por usernein</a>\n\n©2022 - <a href=\"https://t.me/The_Panda_Oficial\">Créditos™</a>",
-  "start_description": "Inicia o bot."
+  "language_btn": "🏳️‍🌈 Idiomas",
+  "add_chat_btn": "➕ Adicionar-me a um grupo ➕",
+  "private": "👋🏻 Oi!\n\n💭 <a href=\"https://t.me/Saturno_xyz_bot\">Saturno Manager</a> é <b>o mais completo</b> bot para ajudá-lo a gerenciar seus Grupos <b>facilmente</b> e <b>Segurança</b>.\n\n❓ Basta pressionar the <b>📚 botão abaixo para ver todos os comandos do bot /help",
+  "start_chat": "🤖 Contato Bot",
+  "group": "Olá, Eu sou o Saturno!\n\nPara descobrir minhas funções, por favor, inicie uma conversa comigo.",
+  "info_page": "• Bot de gerenciador de Grupos\n\n🔖 Bot versão: {version} ({version_code})\n🧑🏼‍💻 Desenvolvedor: @The_Panda_Official\n\n<b>Este bot</b> é um bot desenvolvido em <b>Python3</b> e usando Pyrogram como o framework com sql como banco de dados.\n\n🆕 Visite @botssaved para saber como fazer seu próprio clone do Saturno.",
+  "start_description": "iniciar o bot !",
+  "support_info_text": "• As informações de suporte do Bot.\n\nTemos um Canal oficial para este suporte. Você pode pedir ajuda/support deste bot lá, e então o criador do bot irá guiá-lo com o seu problema.\n\n💬 Criador: @The_Panda_Official\n📣 Canal: @botssaved\n\nPara obter suporte direto, você pode entrar em contato com o administrador deste bot:\n\n» 👮🏻 @The_Panda_Official\n» 👮🏻 @Saturno_xyz_bot\n\n⚠️ A equipe do bot não pode ajudá-lo em situações que envolvam grupos que usam este bot."
 }
