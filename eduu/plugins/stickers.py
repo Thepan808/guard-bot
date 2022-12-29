@@ -173,7 +173,7 @@ async def kang_sticker(c: Client, m: Message, strings):
             stkr_title = f"{u_name}'s "
             if animated:
                 stkr_title += "anim. "
-            stkr_title += "GuardPack"
+            stkr_title += "@botssaved"
             if packnum != 0:
                 stkr_title += f" v{packnum}"
             try:
