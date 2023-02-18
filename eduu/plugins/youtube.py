@@ -70,7 +70,7 @@ async def yt_search_cmd(c: Client, m: Message, strings):
         )
 
 
-@Client.on_message(filters.command(["ytdl", "download", "song", "video"], prefix))
+@Client.on_message(filters.command(["ytdl", "download", "song", "video", "s"], prefix))
 @use_chat_lang()
 async def ytdlcmd(c: Client, m: Message, strings):
     user = m.from_user.id
