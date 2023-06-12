@@ -146,7 +146,7 @@ async def kang_sticker(c: Client, m: Message, strings):
                     mime_type=c.guess_mime_type(filename),
                     attributes=[DocumentAttributeFilename(file_name=filename)],
                 ),
-                message=f"Kanged by -> {m.from_user.id}",
+                message=f"Kibado by -> {m.from_user.id}",
                 random_id=c.rnd_id(),
             )
         )
@@ -173,7 +173,7 @@ async def kang_sticker(c: Client, m: Message, strings):
             stkr_title = f"{u_name}'s "
             if animated:
                 stkr_title += "anim. "
-            stkr_title += "SaturnoPacks"
+            stkr_title += "SaturnoSticker"
             if packnum != 0:
                 stkr_title += f" v{packnum}"
             try:
